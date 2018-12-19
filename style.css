@@ -110,7 +110,10 @@ footer hr {
 .center {
   text-align: center;
 }
-
+.border5px {
+  border: rgb(146, 113, 113) solid 5px;
+  border-radius: 3px;
+}
 @media screen and (min-width: 50em) {
   header {
     height: 700px;
